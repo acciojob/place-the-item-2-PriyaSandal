@@ -3,9 +3,11 @@
 .holder{
 	display:flex;
 	flex-direction:row;
-	justify-content:space-evenly;
+	justify-content:center;
 	flex-wrap:wrap;
-	
+	height:50px;
+	width:100%;
+
 }
 .items1{
 	color:black;
